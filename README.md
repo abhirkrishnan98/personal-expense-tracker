@@ -1,6 +1,6 @@
 # Personal Expense Tracker
 
-Python-based expense tracker enhanced with AI-driven insights for spending patterns and budgeting recommendations.
+Python-based CLI application to track daily expenses, manage budgets, and store data using CSV for real-world usability.
 
 A simple Python-based command-line application to track daily expenses, categorize spending, and monitor monthly budget.
 
